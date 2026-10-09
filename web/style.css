@@ -1,0 +1,48 @@
+body {
+    background-color: black;
+  }
+  
+  h1 {
+    color: forestgreen;
+    font-family: fantasy;
+    font-style: italic;
+    font-weight: bold;
+  }
+  
+  h3 {
+    color: aqua;
+    font-family: inherit;
+    font-weight: bold;
+  }
+  
+  h4 {
+    color: crimson;
+    font-family: monospace;
+    font-size: 18px;
+  }
+  
+  p {
+    color: antiquewhite;
+    font-style: italic;
+  }
+  
+  a {
+    color: darksalmon;
+    text-decoration: underline;
+  }
+  
+  li {
+    color: beige;
+  }
+  
+  .one {
+    align-items: center;
+  }
+  
+  .oneone {
+    float: left;
+  }
+  
+  .onetwo {
+    float: right;
+  }
